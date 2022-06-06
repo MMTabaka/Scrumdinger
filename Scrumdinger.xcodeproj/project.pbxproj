@@ -12,6 +12,7 @@
 		FA235B57284C29DC0087FF58 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA235B56284C29DC0087FF58 /* Preview Assets.xcassets */; };
 		FA235B5F284CEE720087FF58 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA235B5E284CEE720087FF58 /* Theme.swift */; };
 		FA235B61284CF0C80087FF58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA235B60284CF0C80087FF58 /* Assets.xcassets */; };
+		FADE8B7F284EA53F0038045C /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADE8B7E284EA53F0038045C /* DailyScrum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		FA235B56284C29DC0087FF58 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA235B5E284CEE720087FF58 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		FA235B60284CF0C80087FF58 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../Downloads/CreatingACardView/StartingProject/Scrumdinger/Assets.xcassets; sourceTree = "<group>"; };
+		FADE8B7E284EA53F0038045C /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				FA235B5E284CEE720087FF58 /* Theme.swift */,
+				FADE8B7E284EA53F0038045C /* DailyScrum.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FADE8B7F284EA53F0038045C /* DailyScrum.swift in Sources */,
 				FA235B5F284CEE720087FF58 /* Theme.swift in Sources */,
 				FA235B52284C29DB0087FF58 /* MeetingView.swift in Sources */,
 				FA235B50284C29DB0087FF58 /* ScrumdingerApp.swift in Sources */,
