@@ -16,6 +16,7 @@
 		FADE8B89284EA8DA0038045C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADE8B88284EA8DA0038045C /* Assets.xcassets */; };
 		FADF0B9E2851403B003CFC38 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF0B9D2851403B003CFC38 /* TrailingIconLabelStyle.swift */; };
 		FADF0BA02852ACE7003CFC38 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF0B9F2852ACE7003CFC38 /* ScrumsView.swift */; };
+		FADF0BA228539576003CFC38 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF0BA128539576003CFC38 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		FADE8B88284EA8DA0038045C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FADF0B9D2851403B003CFC38 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		FADF0B9F2852ACE7003CFC38 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		FADF0BA128539576003CFC38 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				FA8EAF84284FD138006387EF /* CardView.swift */,
 				FADE8B7E284EA53F0038045C /* DailyScrum.swift */,
 				FADF0B9F2852ACE7003CFC38 /* ScrumsView.swift */,
+				FADF0BA128539576003CFC38 /* DetailView.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				FADF0BA02852ACE7003CFC38 /* ScrumsView.swift in Sources */,
 				FA235B52284C29DB0087FF58 /* MeetingView.swift in Sources */,
 				FA235B50284C29DB0087FF58 /* ScrumdingerApp.swift in Sources */,
+				FADF0BA228539576003CFC38 /* DetailView.swift in Sources */,
 				FA8EAF85284FD138006387EF /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
